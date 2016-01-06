@@ -2,6 +2,7 @@ Drools Demo
 ===
 
 Course planner application for demonstrating Drools use-cases and configuration.
+Rules file in this version is included in source code (without using Drools Workbench).
 
 ## Build the application:
 
@@ -13,7 +14,7 @@ Course planner application for demonstrating Drools use-cases and configuration.
 
 ## Get Suggested Course/s:
 
-    http://localhost:8080/suggest
+    http://localhost:9999/suggest
 
 ## Sample Payload:
     {
