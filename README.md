@@ -2,7 +2,7 @@ Drools Demo
 ===
 
 Course planner application for demonstrating Drools use-cases and configuration.
-Rules file in this version is included in source code (without using Drools Workbench).
+This application uses a class-based rules file.
 
 ## Build the application:
 
